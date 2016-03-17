@@ -33,6 +33,6 @@ setup(
     install_requires=install_requires,
     license='MIT',
     long_description=long_description,
-    url='http://github.com/underdogio/resume-schema-python',
+    url='http://github.com/underdogio/resumeschema-python',
     version='1.0.0',
 )
