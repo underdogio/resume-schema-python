@@ -1,2 +1,0 @@
-Python resume-schema validator
-==============================

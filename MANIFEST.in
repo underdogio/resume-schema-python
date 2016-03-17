@@ -1,0 +1,4 @@
+include *.rst setup.py requirements.txt
+recursive-include resumeschema *
+global-exclude *.pyc
+global-exclude *.pyo
