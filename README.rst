@@ -4,6 +4,8 @@ resumeschema
 
 ``resumeschema`` is a `json-schema <http://json-schema.org/>`_ validator for the `resume-schema <https://github.com/jsonresume/resume-schema>`_ spec.
 
+``resumeschema`` is mostly just a wrapper around `jsonschema <https://github.com/Julian/jsonschema>`_.
+
 Installation
 ------------
 
