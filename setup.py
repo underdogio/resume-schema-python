@@ -1,8 +1,6 @@
 import os
 from setuptools import setup
 
-from resumeschema import __version__
-
 with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as readme:
     long_description = readme.read()
 
@@ -36,5 +34,5 @@ setup(
     license='MIT',
     long_description=long_description,
     url='http://github.com/underdogio/resume-schema-python',
-    version=__version__,
+    version='1.0.0',
 )

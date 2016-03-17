@@ -1,7 +1,6 @@
 """
 """
 __all__ = ['is_valid', 'iter_errors', 'validate', 'validator']
-__version__ = '1.0.0'
 
 import json
 import os
