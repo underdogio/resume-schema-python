@@ -31,7 +31,7 @@ setup(
     author='Brett Langdon',
     author_email='me@brett.is',
     classifiers=classifiers,
-    description='JSON validator for resume-schema',
+    description='JSON schema validator for the resume-schema (https://github.com/jsonresume/resume-schema) spec',
     install_requires=install_requires,
     license='MIT',
     long_description=long_description,
